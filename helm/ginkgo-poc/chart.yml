@@ -1,0 +1,4 @@
+apiVersion: v2
+name: ginkgo-poc
+description: A Helm chart for Ginkgo PoC microservices
+version: 0.1.0
